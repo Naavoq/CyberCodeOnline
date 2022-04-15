@@ -131,7 +131,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "알록달록한 키패드가있는 잠긴 전리품 상자를 찾았습니다. 올바른 색상을 맞춘다면 잠금을 해제할수 있습니다.",
+ 	 	 	 	 	"trans": "알록달록한 키패드가 있는 잠긴 전리품 상자를 찾았습니다. 색상을 올바른 순서대로 맞추면 잠금을 해제할 수 있습니다.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -225,11 +225,11 @@
  	 	 	},
  	 	 	"modal": {
  	 	 	 	"selectDepositItem": {
- 	 	 	 	 	"trans": "보관할 수량을 입력해주세요.",
+ 	 	 	 	 	"trans": "몇 개를 금고에 넣으시겠습니까?.",
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "회수할 수량을 입력해주세요.",
+ 	 	 	 	 	"trans": "몇 개를 금고에서 꺼내시겠습니까?.",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	},
  	 	 	 	"selectDeposit": {
@@ -242,7 +242,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"noBalance": {
- 	 	 	 	"trans": "통장에 잔고가 없습니다.",
+ 	 	 	 	"trans": "잔고가 없으면 출금할 수 없습니다.",
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	}
  	 	},
@@ -270,11 +270,11 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "오래된 금고를 발견했습니다. 포스트잇에 어떤 텍스트가 써져있는 것 같네요.",
+ 	 	 	 	"trans": "오래된 금고를 발견했습니다. 포스트잇에 어떤 말이 쓰여있는 것 같네요.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "잠금을 해제하려면 PIN코드가 필요합니다",
+ 	 	 	 	"trans": "잠금을 해제하려면 PIN 코드가 필요합니다",
  	 	 	 	"eng": "Pin code required to unlock"
  	 	 	},
  	 	 	"inputLabel": {
@@ -334,7 +334,7 @@
  	 	 	 	"eng": "gang"
  	 	 	},
  	 	 	"mail": {
- 	 	 	 	"trans": "메시지",
+ 	 	 	 	"trans": "우편",
  	 	 	 	"eng": "mail"
  	 	 	},
  	 	 	"noti": {
@@ -379,12 +379,12 @@
  	 	"equipment": {
  	 	 	"lowPrintLevelTip": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "인쇄 레벨이 낮습니다",
+ 	 	 	 	 	"trans": "인쇄 랭크가 낮습니다",
  	 	 	 	 	"eng": "Low Printing Rank"
  	 	 	 	}
  	 	 	},
  	 	 	"lowPrintLevelTip2": {
- 	 	 	 	"trans": "더 많은 캐시를 인쇄하여 인쇄 레벨를 높이고, 더 강력한 무기를 만드세요",
+ 	 	 	 	"trans": "더 많은 캐시를 인쇄하여 인쇄 랭크를 높이고, 더 강력한 무기를 만드세요",
  	 	 	 	"eng": "Increase your Printing Rank to create more powerful weapons by printing more caches"
  	 	 	},
  	 	 	"quickSlots": {
@@ -412,7 +412,7 @@
  	 	},
  	 	"fab": {
  	 	 	"apps": {
- 	 	 	 	"trans": "모든 앱들",
+ 	 	 	 	"trans": "모든 앱",
  	 	 	 	"eng": "All Apps"
  	 	 	},
  	 	 	"dungeonList": {
@@ -432,7 +432,7 @@
  	 	 	 	"eng": "Friend List"
  	 	 	},
  	 	 	"leaderBoard": {
- 	 	 	 	"trans": "리더 보드",
+ 	 	 	 	"trans": "리더보드",
  	 	 	 	"eng": "Leaderboard"
  	 	 	},
  	 	 	"tutorial": {
@@ -696,7 +696,7 @@
  	 	},
  	 	"notificationCenter": {
  	 	 	"deleteTip": {
- 	 	 	 	"trans": "삭제하려면 길게 누릅니다",
+ 	 	 	 	"trans": "길게 눌러 삭제하기",
  	 	 	 	"eng": "Long press to delete"
  	 	 	}
  	 	},
@@ -739,7 +739,7 @@
  	 	 	 	 	 	"eng": "printing level ${level} equipments"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "장비 인쇄는 인쇄 레벨을 기반으로하며, 장비를 인쇄하여 인쇄 레벨을 올릴 수 있습니다",
+ 	 	 	 	 	 	"trans": "장비 인쇄는 인쇄 랭크를 기반으로 하며, 장비를 인쇄하여 인쇄 랭크를 올릴 수 있습니다",
  	 	 	 	 	 	"eng": "equipment printing is based on your printing rank, level up your printing rank by printing more items"
  	 	 	 	 	}
  	 	 	 	}
@@ -815,7 +815,7 @@
  	 	 	 	 	"eng": "Kick"
  	 	 	 	},
  	 	 	 	"editPermissions": {
- 	 	 	 	 	"trans": "권한들",
+ 	 	 	 	 	"trans": "권한",
  	 	 	 	 	"eng": "Permissions"
  	 	 	 	},
  	 	 	 	"transferLeadership": {
@@ -865,7 +865,7 @@
  	 	"modal": {
  	 	 	"changePicture": {
  	 	 	 	"confirm": {
- 	 	 	 	 	"trans": "이해 했습니다",
+ 	 	 	 	 	"trans": "이해했습니다",
  	 	 	 	 	"eng": "I understand"
  	 	 	 	}
  	 	 	},
@@ -895,7 +895,7 @@
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "던전에 다시 입장하실수 없습니다",
+ 	 	 	 	 	"trans": "던전에 다시 입장하실 수 없습니다",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1040,7 +1040,7 @@
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "원격 취약점 배포중, 잠시 기다려주십시오 ...",
+ 	 	 	 	 	 	"trans": "원격 취약점 배포 중, 잠시 기다려주십시오 ...",
  	 	 	 	 	 	"eng": "Remote exploit deploying, please wait..."
  	 	 	 	 	}
  	 	 	 	}
@@ -1104,7 +1104,7 @@
  	 	},
  	 	"setting": {
  	 	 	"langWarning": {
- 	 	 	 	"trans": "이 언어 팩은 오픈 소스라서 게임의 플레이어들이 기여를 해 주었고, 모든 텍스트가 다 번역되어 있지 않을 수 있으며 실수가 있을 수 있습니다. GitHub 페이지에서 편집을 해서 기여해 주시기 바랍니다",
+ 	 	 	 	"trans": "이 언어 팩은 오픈 소스이며 게임의 플레이어들이 기여를 해 주었고, 모든 텍스트가 다 번역되어 있지 않을 수 있으며 실수가 있을 수 있습니다. 부디 자유로이 GitHub 페이지에서 편집을 해서 기여해 주시기 바랍니다",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"langGithub": {
@@ -2461,11 +2461,11 @@
  	 	},
  	 	"newbie3": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "인쇄 레벨 3 도달",
+ 	 	 	 	"trans": "인쇄 랭크 3 도달",
  	 	 	 	"eng": "Reach printing rank 3"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "캐시로 인쇄한 아이템의 레벨은 인쇄 레벨에 의해 결정됩니다. \r\n         인쇄 레벨을 올릴수록 더 높은 레벨의 아이템을 인쇄할 수 있습니다. \r\n        \r\n         [중앙 허브]에서 3D 분자 프린터를 찾을 수 있으며, 캐시를 인쇄 하여 인쇄 레벨을 올릴 수 있습니다.",
+ 	 	 	 	"trans": "캐시로 인쇄한 아이템의 레벨은 인쇄 랭크에 의해 결정됩니다. \r\n         인쇄 랭크를 올릴수록 더 높은 레벨의 아이템을 인쇄할 수 있습니다. \r\n        \r\n         [중앙 허브]에서 3D 분자 프린터를 찾을 수 있으며, 캐시를 인쇄 하여 인쇄 랭크을 올릴 수 있습니다.",
  	 	 	 	"eng": "The level of itemS you print with Caches are determined by your Printing Rank,\r\n        level up your Printing Rank so you can print higher level items.\r\n        \r\n        You can find Molecular 3D Printer at [Central Hub], use it to print some caches to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -3828,7 +3828,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "${typeName} 캐시에는 3D 분자 프린팅에 관한 정보가 들어있으며, \r\n                    [도심지]의 [3D 분자 프린터]에서 ${typeName}를 만들 수 있습니다.\r\n                    \r\n                    팁: 인쇄 레벨에 의해 실제 아이템의 레벨이 결정되므로,\r\n                    항상 조잡함 등급의 아이템을 먼저 인쇄하는 게 좋습니다. 인쇄 레벨를 올리는 데 도움이 되고 싸기 때문입니다.",
+ 	 	 	 	"trans": "${typeName} 캐시에는 3D 분자 프린팅에 관한 정보가 들어있으며, \r\n                    [도심지]의 [3D 분자 프린터]에서 ${typeName}를 만들 수 있습니다.\r\n                    \r\n                    팁: 인쇄 레벨에 의해 실제 아이템의 레벨이 결정되므로,\r\n                    항상 조잡함 등급의 아이템을 먼저 인쇄하는 게 좋습니다. 인쇄 랭크를 올리는 데 도움이 되고 싸기 때문입니다.",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	}
@@ -3842,7 +3842,7 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "인쇄 레벨",
+ 	 	 	 	"trans": "인쇄 랭크",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
@@ -4244,7 +4244,7 @@
  	 	 	 	]
  	 	 	},
  	 	 	"name": {
- 	 	 	 	"trans": "리 아저씨의 무역소",
+ 	 	 	 	"trans": "리 아저씨의 거래소",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
@@ -4252,7 +4252,7 @@
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "레벨 10 이상이 되어야 무역소에 접속할 수 있습니다",
+ 	 	 	 	"trans": "레벨 10 이상이 되어야 거래소에 접근할 수 있습니다",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -4294,7 +4294,7 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "공학 조각을 소모하지 않고 인쇄 기술을 개선합니다. 인쇄 레벨을 높이는 데 도움이 될 수 있습니다.",
+ 	 	 	 	"trans": "공학 조각을 소모하지 않고 인쇄 랭크를 향상합니다. 인쇄물의 수준을 높이는 데 도움이 될 수 있습니다.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -4324,7 +4324,7 @@
  	 	 	 	"eng": "Reverse Engineer Scraps"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "공학 조각을 분석하여 인쇄 레벨을 높입니다. \r\n        공학 조각을 소모해야 합니다.",
+ 	 	 	 	"trans": "공학 조각을 분석하여 인쇄 랭크를 높입니다. \r\n        공학 조각을 소모해야 합니다.",
  	 	 	 	"eng": "Reverse engineer tech scrap to improve your Print Rank. \r\n        You’ll need to sacrifice some of your tech scrap."
  	 	 	}
  	 	},
